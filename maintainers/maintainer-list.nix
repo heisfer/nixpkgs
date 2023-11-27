@@ -7113,6 +7113,13 @@
     githubId = 71978;
     name = "Tor Hedin Brønner";
   };
+  heisfer = {
+    email = "heisfer@refract.dev";
+    github = "heisfer";
+    githubId = 28564678;
+    matrix = "@heisfer:matrix.org";
+    name = "Heisfer";
+  };
   heel = {
     email = "parizhskiy@gmail.com";
     github = "HeeL";
